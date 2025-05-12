@@ -21,5 +21,5 @@ jobs:
 
     - name: Build and push Docker image
       run: |
-        docker build -t santosh0788/cicd-docker:latest .
-        docker push santosh0788/cicd-docker:latest
+        docker build -t saiteja4751/flaskawithsantosh:1.0 .
+        docker push saiteja4751/flaskawithsantosh:1.0
